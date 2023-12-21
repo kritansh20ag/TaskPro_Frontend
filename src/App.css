@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.logoutbutton {
+    font-size: .5rem;
+}
+
+.logoutbuttonuser {
+    font-size: .75rem;
+}
+
+.homemessage {
+    min-height: 90vh;
+}
+
+.filter {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    border-radius: 20px;
+}
+
+html{
+    -webkit-text-size-adjust: none;
+}
