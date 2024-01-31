@@ -40,9 +40,6 @@ function Home() {
                         ? "Create and manage your tasks easily with our intuitive app."
                         : "Please log in to create and manage your tasks."}
                     </p>
-                    <p className="text-gray-700 mt-4">
-                      Designed and developed by Sarthak Omer.
-                    </p>
                   </div>
                 </div>
               </div>
